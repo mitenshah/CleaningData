@@ -5,6 +5,7 @@ Use *read.table()* to read the data for the given assignment.
 
 ## Obtaining labels
 Obtain the names of columns from the features.txt file using.
+Any ',','-' or '()' were removed from the column names to keep it tidy.
 Obtain the names of activities from the activities.txt file.
 
 ## Importing Data
